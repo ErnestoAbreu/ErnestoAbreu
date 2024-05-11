@@ -1,16 +1,46 @@
-### Hi there 👋
+## Hi there 👋. I'm Ernesto Abreu.
 
-<!--
-**ErnestoAbreu/ErnestoAbreu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm a computer science student of Havana University, ICPC contestant and a junior software developer.
+- 🎓I'm 20 years old and I'm in the second year of my degree.
+- ❤️Love math and programming.
+- 🌱Interested in backend development.
+- 📫Contact me through my [Email](mailto:ernestoabreup@gmail.com) or [Telegram](https://t.me/Play_Erminuswan).
+- 🖥️I'm on [Codeforces](https://codeforces.com/profile/Ernest0_0Abreu).
+- 🎮Love videogames, anime and 🎸metalcore music.
 
-Here are some ideas to get you started:
+#### Languages and Tools:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,dotnet,git" />
+  </a>
+</p>
+
+#### Learning:
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,godot,mysql" />
+  </a>
+</p>
+
+#### Github Stats:
+
+
+<p align="left">
+  <a>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ErnestoAbreu&theme=tokyonight" />
+  </a>
+</p>
+
+<p align="left">
+  <a>
+    <img src="https://github-readme-stats.vercel.app/api?username=ErnestoAbreu&count_private=true&show_icons=true&theme=tokyonight" />
+  </a>
+</p>
+
+<p align="left">
+ <a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErnestoAbreu&layout=compact&theme=tokyonight" />
+  </a>
+</p>
