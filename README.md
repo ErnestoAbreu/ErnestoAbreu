@@ -1,7 +1,7 @@
 ## Hi there 👋. I'm Ernesto Abreu.
 
 ### I'm a computer science student of Havana University, ICPC contestant and a junior software developer.
-- 🎓I'm 20 years old and I'm in the second year of my degree.
+- 🎓I'm 21 years old and I'm in the third year of my degree.
 - ❤️Love math and programming.
 - 🌱Interested in backend development.
 - 📫Contact me through my [Email](mailto:ernestoabreup@gmail.com) or [Telegram](https://t.me/Play_Erminuswan).
@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,dotnet,git" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,git,dotnet,mysql,postgres" />
   </a>
 </p>
 
@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,godot,mysql" />
+    <img src="https://skillicons.dev/icons?i=go,godot"/>
   </a>
 </p>
 
