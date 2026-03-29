@@ -1,31 +1,22 @@
 ## Hi there 👋. I'm Ernesto Abreu.
 
-### I'm a computer science student of Havana University, ICPC contestant and a junior software developer.
-- 🎓I'm 21 years old and I'm in the third year of my degree.
-- ❤️Love math and programming.
-- 🌱Interested in backend development.
-- 📫Contact me through my [Email](mailto:ernestoabreup@gmail.com) or [Telegram](https://t.me/Play_Erminuswan).
-- 🖥️I'm on [Codeforces](https://codeforces.com/profile/Ernest0_0Abreu).
-- 🎮Love videogames, anime and 🎸metalcore music.
+### I'm a Computer Science student at the University of Havana, ICPC regional champion, and a software developer
+- 🎓 Final-year Computer Science student
+- 🧠 Strong background in algorithms and problem solving
+- ⚙️ Focused on backend systems with a growing interest in artificial intelligence.
+- 📫 Contact me through my [Email](mailto:ernestoabreup@gmail.com) or [Linkedin](www.linkedin.com/in/ernesto-abreu-8913052a6).
+- 🖥️ I'm on [Codeforces](https://codeforces.com/profile/Ernest0_0Abreu).
+- 🎮 Enjoy videogames, anime and 🎸metalcore music.
 
 #### Languages and Tools:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,git,dotnet,mysql,postgres" />
-  </a>
-</p>
-
-#### Learning:
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,godot,ts"/>
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,go,py,git,dotnet,docker,mysql,postgres" />
   </a>
 </p>
 
 #### Github Stats:
-
 
 <p align="left">
   <a>
