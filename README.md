@@ -23,15 +23,3 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ErnestoAbreu&theme=tokyonight" />
   </a>
 </p>
-
-<p align="left">
-  <a>
-    <img src="https://github-readme-stats.vercel.app/api?username=ErnestoAbreu&count_private=true&show_icons=true&theme=tokyonight" />
-  </a>
-</p>
-
-<p align="left">
- <a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErnestoAbreu&layout=compact&theme=tokyonight" />
-  </a>
-</p>
