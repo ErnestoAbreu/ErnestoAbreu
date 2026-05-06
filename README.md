@@ -6,7 +6,7 @@
 - ⚙️ Focused on backend systems with a growing interest in artificial intelligence.
 - 📫 Contact me through my [Email](mailto:ernestoabreup@gmail.com) or [Linkedin](https://www.linkedin.com/in/ernesto-abreu-8913052a6).
 - 🖥️ I'm on [Codeforces](https://codeforces.com/profile/Ernest0_0Abreu).
-- 🎮 Enjoy videogames, anime and 🎸metalcore music.
+- 🎮 Enjoy videogames.
 
 #### Languages and Tools:
 
